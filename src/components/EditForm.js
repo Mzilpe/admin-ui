@@ -25,7 +25,7 @@ const EditForm = (props) => {
 		const updatedData = tableData.map((item) =>
 			item.id !== newData.id ? item : newData
 		);
-		console.log(updatedData);
+
 		setTableData(updatedData);
 		setEditData([]);
 		setName("");
