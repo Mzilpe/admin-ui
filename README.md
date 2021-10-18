@@ -1,10 +1,13 @@
 # Admin-UI from GEEKTRUST Coding Challenges
-    ### https://www.geektrust.in/coding-problem/frontend/adminui
+    ### Below is the challenge link, you will find the requirement here
+    https://www.geektrust.in/coding-problem/frontend/adminui
     
 ## Have look at the app
+    Application is deployed on below url
     ### https://mzilpe.github.io/admin-ui/
    
-
+## If want to run locally
+    ### Clone the repository and run "npm start"
 
 # Getting Started with Create React App
 
