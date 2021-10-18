@@ -1,5 +1,5 @@
 import React from "react";
-import { useState } from "react/cjs/react.development";
+import { useState } from "react";
 
 const EditForm = (props) => {
 	const { editData, setTableData, tableData, setEditData } = props;
