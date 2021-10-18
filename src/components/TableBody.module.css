@@ -1,0 +1,32 @@
+tr td {
+	width: 20%;
+	height: 10px;
+	padding: 2px;
+	margin-right: 5px;
+}
+
+.btn {
+	width: 50px;
+	border: none;
+	padding: 2px 0;
+	border-radius: 2px;
+	font-weight: 400;
+}
+
+.btn-edit {
+	background-color: #2f9e44;
+	color: #fff;
+	margin-right: 3px;
+}
+
+.btn-delete:hover {
+	background-color: #c92a2a;
+}
+.btn-edit:hover {
+	background-color: #2b8a3e;
+}
+
+.btn-delete {
+	background-color: #e03131;
+	color: #fff;
+}
