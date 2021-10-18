@@ -1,3 +1,11 @@
+# Admin-UI from GEEKTRUST Coding Challenges
+    ### https://www.geektrust.in/coding-problem/frontend/adminui
+    
+## Have look at the app
+    ### https://mzilpe.github.io/admin-ui/
+   
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
